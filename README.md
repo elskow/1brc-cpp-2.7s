@@ -1,4 +1,4 @@
-## One Billion Rows Challenge C++ Solution (2.7 seconds)
+## One Billion Rows Challenge C++ Solution (< 2 seconds)
 
 ### Overview
 
